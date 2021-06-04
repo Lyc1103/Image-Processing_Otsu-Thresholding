@@ -58,7 +58,7 @@ For Windows 10 :
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src = "pictures/Gray-image-generated-by-Otsu-thresholding.png" width = "200">
 
-&emsp;&emsp; Result of Otsuthresholding image :<br>
+&emsp;&emsp; Result of Otsu thresholding image :<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src = "pictures/Otsu-thresholdingChou-Tzu-yu.jpg" width = "200">
 
